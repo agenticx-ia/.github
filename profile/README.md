@@ -37,6 +37,7 @@ A **AgenticX IA** é um laboratório de engenharia focado no desenvolvimento de 
 
 ---
 
+
 ### 📌 Repositórios em Destaque
 
 * **`agenticx-hub`** — Núcleo de orquestração de IA voltado para automação de processos e prospecção ativa.
